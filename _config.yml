@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Wonmi's DeepLearning studyroom"
 title_separator          : "-"
 subtitle                 : "딥러닝 공부 흔적 남기는 공간" # site tagline that appears below site title in masthead
-name                     : "Kim_Wonmi"
+name                     : "Kim_wonmi"
 description              : "Chemistry And Data Scientist"
 url                      : "https://Wonmi2.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
